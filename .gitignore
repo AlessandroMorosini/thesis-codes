@@ -1,6 +1,10 @@
 # Mac OS
 .DS_Store
 
+# R
+.RData
+.Rhistory
+
 misc
 
 # model
