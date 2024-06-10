@@ -1,4 +1,4 @@
-# Frequentist and Bayesian Approaches for Survival Analysis
+# Statistical Models for Survival Data: Theory and Applications
 
 This repository contains code for my thesis on survival analysis using a lung cancer dataset. It includes both frequentist and Bayesian methods:
 
